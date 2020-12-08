@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "gender": "Male",
+      "first_name": "Mathew",
+      "last_name": "Bagniuk",
+      "email": "mbagniuk0@pbs.org"
+    },
+    {
+      "id": 2,
+      "gender": "Female",
+      "first_name": "Sylvia",
+      "last_name": "Pierpoint",
+      "email": "spierpoint1@miibeian.gov.cn"
+    },
+    {
+      "id": 3,
+      "gender": "Female",
+      "first_name": "Edy",
+      "last_name": "Laying",
+      "email": "elaying2@wiley.com"
+    },
+    {
+      "id": 4,
+      "gender": "Male",
+      "first_name": "Emmott",
+      "last_name": "Trevear",
+      "email": "etrevear3@businessweek.com"
+    },
+    {
+      "id": 5,
+      "gender": "Female",
+      "first_name": "Dita",
+      "last_name": "Bartolomeazzi",
+      "email": "dbartolomeazzi4@cloudflare.com"
+    },
+    {
+      "id": 6,
+      "gender": "Female",
+      "first_name": "Sarajane",
+      "last_name": "Gravenell",
+      "email": "sgravenell5@cnbc.com"
+    },
+    {
+      "first_name": "Clara",
+      "last_name": "Sanchez",
+      "email": "sanchez.clara13@gmail.com",
+      "gender": "Male",
+      "id": 7
+    },
+    {
+      "first_name": "Edyted",
+      "last_name": "Laying",
+      "email": "elaying2@wiley.com",
+      "gender": "Female",
+      "id": 8
+    }
+  ]
+}

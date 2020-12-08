@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+}
+main > aside {
+  flex-basis: 35% !important;
+}
+/*Search*/
+.search {
+  text-align: center;
+}
+
+/*Table*/
+table {
+  margin: 3% !important;
+}
+.fa-trash-o {
+  color: red;
+  font-size: 1.5em;
+}
+.fa-trash-o:hover {
+  color: rgb(95, 1, 1);
+}
+.fa-plus-square,
+.fa-pencil-square {
+  color: rgb(4, 184, 4);
+  font-size: 1.5em;
+  align-self: center;
+}
+.fa-plus-square:hover,
+.fa-pencil-square:hover {
+  color: darkgreen;
+}
+.yellow {
+  color: rgb(250, 250, 78);
+}
+.yellow:hover {
+  color: orange;
+}
+td {
+  text-align: left;
+}
+button {
+  border: none;
+  color: black;
+  background-color: #fbfcfc;
+}
+button:hover {
+  background-color: #dee2e6;
+}
+
+/*Form*/
+.btn {
+  margin-top: 1em;
+}
+form {
+  margin: 1rem;
+}
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+main > section {
+  flex-basis: 70%;
+}
+main > aside {
+  flex-basis: 25%;
+}
+/*UserTable*/
+.user-table {
+  margin: 1rem;
+}
+.box {
+  width: 450px;
+}
